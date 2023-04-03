@@ -1,0 +1,2 @@
+# smth-project
+amaliyot
